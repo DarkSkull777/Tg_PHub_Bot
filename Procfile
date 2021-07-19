@@ -1,1 +1,1 @@
-worker: python3 Phub.py
+dimas: python3 Phub.py
