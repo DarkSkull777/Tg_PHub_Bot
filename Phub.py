@@ -29,7 +29,7 @@ phdl = arq.phdl
 
 app = Client("Tg_PHub_Bot", bot_token=Bot_token, api_id=6,
              api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e")
-print("\nBot Started!...\n")
+print("\nKontollllolllllll...\n")
 
 db = {}
 
@@ -49,7 +49,7 @@ async def time_to_seconds(time):
 )
 async def start(_, message):
     m= await message.reply_text(
-        text = "Hai [Aku Dimas PornHUB DL](https://t.me/dimaspornhub_bot, Kamu dapat Mengunduh Video dari PHub, Resolusi 240p hingga 1080p !\nbagaimana caranya? tekan /help\n\nMade by [Dimassrmdani](https://t.me/xskull7)"
+        text = "~\nHai Aku [Dimas PornHUB DL](https://t.me/dimaspornhub_bot, Kamu dapat Mengunduh Video dari Phub, Resolusi 240p hingga 1080p !\nbagaimana caranya? tekan /help\n\nMade by [Dimassrmdani](https://t.me/xskull7)"
        )
 
 # Help-------------------------------------------------------------------------
