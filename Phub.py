@@ -49,7 +49,7 @@ async def time_to_seconds(time):
 )
 async def start(_, message):
     m= await message.reply_text(
-        text = "Hai Aku [Dimas PornHUB DL](https://t.me/dimaspornhub_bot), Kamu dapat Mengunduh Video dari Phub, Resolusi 240p hingga 1080p !\nbagaimana caranya? tekan /help\n\nMade by [Dimassrmdani](https://t.me/xskull7)"
+        text = "Hai Aku [Dimas PornHUB DL](https://t.me/dimaspornhub_bot), Kamu dapat Mengunduh Video dari Phub, Resolusi 240p hingga 1080p !\nbagaimana caranya? tekan /help\n\nMade by [Dimassrmdani](https://t.me/botdimasdoang)"
        )
 
 # Help-------------------------------------------------------------------------
